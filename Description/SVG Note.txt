@@ -1,0 +1,13 @@
+Cx and Cy are the center postion of the circle
+stroke-width = "width spacing"
+stroke-dashoffset = "-value" for clockwise direction
+transform = "rotation center-x center-y"
+
+
+
+
+Formula
+==================
+offset = ((perimeter * timeRemaining) / totalDuration) - perimeter
+
+
